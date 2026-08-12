@@ -25,9 +25,9 @@ thumbnails on YouTube. It does not access any other website.
 ## Open source
 
 DeBait is open source. You can review exactly what it does at
-<https://github.com/nnx0r/debait>.
+<https://github.com/Devilos/debait>.
 
 ## Contact
 
 Questions about this policy? Open an issue at
-<https://github.com/nnx0r/debait/issues>.
+<https://github.com/Devilos/debait/issues>.
