@@ -4,6 +4,9 @@ Browser extension that replaces clickbait YouTube thumbnails with the real
 first frame of the video. Works automatically after install — no popup, no
 settings.
 
+> Sibling to [DeAlter](https://github.com/Devilos/dealter) (hides AI-disclosed
+> videos). Same WXT stack, same brand family.
+
 ## How it works
 
 YouTube exposes auto-generated frame grabs per video (sampled from the actual
